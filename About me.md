@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Front1ine, my name is Denis Leamnn
+- 👋 Hi, I’m @Front1ine, my name is Denis Lemann
 - 👀 I’m interested in HTML/CSS/JavaScript/ReactJS
 - 🌱 I’m currently learning HTML/CSS/JavaScript/ReactJS and Web-Design
 - 💞️ I’m looking to collaborate on FrontEnd and Web-Design
